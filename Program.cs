@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Travis Kean
+//String manipulation
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
